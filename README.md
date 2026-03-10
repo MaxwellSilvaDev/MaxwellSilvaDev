@@ -15,10 +15,12 @@ Estou construindo projetos práticos para desenvolver minhas habilidades e monta
 ## 📂 Projetos em Destaque
 
 ### 🛒 E-commerce SQL Database
-Projeto de modelagem e implementação de um banco de dados relacional para um sistema de e-commerce, com entidades, relacionamentos, chaves primárias, chaves estrangeiras e consultas SQL.
+Projeto de modelagem e implementação de um banco de dados relacional para um sistema de e-commerce, com entidades, relacionamentos, chaves primárias, chaves estrangeiras e consultas SQL.  
+[Ver repositório](https://github.com/MaxwellSilvaDev/sql-ecommerce-database)
 
 ### 🚗 Car Workshop Database
-Projeto de banco de dados para oficina mecânica, com foco em ordens de serviço, clientes, veículos e estrutura relacional.
+Projeto de banco de dados para oficina mecânica, com foco em ordens de serviço, clientes, veículos e estrutura relacional.  
+[Ver repositório](https://github.com/MaxwellSilvaDev/database-car-workshop)
 
 ## 📚 Atualmente estudando
 
