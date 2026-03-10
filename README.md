@@ -1,7 +1,7 @@
 # Olá, eu sou Maxwell 👋
 
-Sou estudante de tecnologia com foco em **SQL**, **banco de dados**, **modelagem de dados** e **GitHub**.  
-Estou construindo projetos práticos para desenvolver minhas habilidades e montar um portfólio sólido na área de dados.
+Sou estudante de tecnologia com foco em **SQL**, **banco de dados**, **modelagem de dados** e construção de **projetos para portfólio**.  
+Estou desenvolvendo projetos práticos para fortalecer minhas habilidades técnicas e construir uma base sólida na área de dados.
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -15,11 +15,11 @@ Estou construindo projetos práticos para desenvolver minhas habilidades e monta
 ## 📂 Projetos em Destaque
 
 ### 🛒 E-commerce SQL Database
-Projeto de modelagem e implementação de um banco de dados relacional para um sistema de e-commerce, com entidades, relacionamentos, chaves primárias, chaves estrangeiras e consultas SQL.  
+Projeto de modelagem e implementação de banco de dados SQL para um sistema de e-commerce, com foco em entidades, relacionamentos, chaves primárias, chaves estrangeiras e consultas SQL.  
 [Ver repositório](https://github.com/MaxwellSilvaDev/sql-ecommerce-database)
 
 ### 🚗 Car Workshop SQL Database
-Projeto de modelagem e implementação de banco de dados SQL para um sistema de oficina mecânica, com foco em ordens de serviço, clientes, veículos, relacionamentos e consultas SQL.  
+Projeto de modelagem e implementação de banco de dados SQL para um sistema de oficina mecânica, com foco em ordens de serviço, clientes, veículos, relacionamentos, inserção de dados e consultas SQL.  
 [Ver repositório](https://github.com/MaxwellSilvaDev/database-car-workshop)
 
 ## 📚 Atualmente estudando
@@ -32,4 +32,4 @@ Projeto de modelagem e implementação de banco de dados SQL para um sistema de 
 
 ## 🎯 Objetivo
 
-Desenvolver projetos práticos que demonstrem minha evolução em banco de dados e construção de portfólio para oportunidades na área de tecnologia.
+Desenvolver projetos práticos que demonstrem minha evolução em banco de dados, modelagem de dados e SQL, construindo um portfólio forte para oportunidades na área de tecnologia.
