@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Maxwell 👋
 
-<!--
-**MaxwellSilvaDev/MaxwellSilvaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de tecnologia com foco em **SQL**, **banco de dados**, **modelagem de dados** e **GitHub**.  
+Estou construindo projetos práticos para desenvolver minhas habilidades e montar um portfólio sólido na área de dados.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- SQL Server
+- Modelagem de Dados
+- Git
+- GitHub
+- dbdiagram.io
+
+## 📂 Projetos em Destaque
+
+### 🛒 E-commerce SQL Database
+Projeto de modelagem e implementação de um banco de dados relacional para um sistema de e-commerce, com entidades, relacionamentos, chaves primárias, chaves estrangeiras e consultas SQL.
+
+### 🚗 Car Workshop Database
+Projeto de banco de dados para oficina mecânica, com foco em ordens de serviço, clientes, veículos e estrutura relacional.
+
+## 📚 Atualmente estudando
+
+- SQL
+- Banco de Dados
+- Modelagem Relacional
+- Lógica de Programação
+- Git e GitHub
+
+## 🎯 Objetivo
+
+Desenvolver projetos práticos que demonstrem minha evolução em banco de dados e construção de portfólio para oportunidades na área de tecnologia.
