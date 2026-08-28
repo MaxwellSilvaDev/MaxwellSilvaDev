@@ -5,9 +5,9 @@
 
 <td width="62%" valign="middle">
 
-### 👋 Olá, eu sou
+###  Olá, eu sou
 
-# MAXWELL
+# Maxwell
 
 ### 💻 Estudante de Engenharia de Software
 
@@ -187,7 +187,7 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 <td width="50%" align="center">
 
 <a href="https://www.linkedin.com/in/maxwellanabil01/">
-<img src="./assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
+<img src="./assets/assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
 </a>
 
 </td>
@@ -199,6 +199,6 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <div align="center">
 
-**❤️ Construindo, aprendendo e evoluindo.**
+** Construindo, aprendendo e evoluindo.**
 
 </div>
