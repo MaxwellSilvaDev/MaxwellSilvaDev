@@ -1,15 +1,23 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Maxwell;Software+Engineering;Backend+Developer;SQL+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <table>
 <tr>
 
 <td width="62%" valign="middle">
 
-###  Olá, eu sou
+### Olá, eu sou
 
 # Maxwell
 
-### 💻 Estudante de Engenharia de Software
+### Estudante de Engenharia de Software
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend e banco de dados. Venho desenvolvendo meus conhecimentos por meio dos estudos e da prática, transformando aprendizado em projetos e experiências reais.
 
@@ -105,7 +113,7 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <div align="center">
 
-## 📊 Status
+## Status
 
 <br>
 
@@ -129,7 +137,7 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <div align="center">
 
-## 📁 Projetos em Destaque
+## Projetos em Destaque
 
 </div>
 
@@ -159,7 +167,7 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <div align="center">
 
-## 🚀 Objetivo
+## Objetivo
 
 <img src="./assets/rocket-card.svg" width="100%" alt="Objetivo"/>
 
@@ -199,6 +207,6 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <div align="center">
 
-** Construindo, aprendendo e evoluindo.**
+**Construindo, aprendendo e evoluindo.**
 
 </div>
