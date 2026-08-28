@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#0A1633"/>
+      <stop offset="100%" stop-color="#06101F"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="216" rx="24"
+        fill="url(#bg)" stroke="#2563EB" stroke-width="3"/>
+
+  <text x="40" y="78"
+        fill="#8B5CF6"
+        font-size="70"
+        font-family="Georgia"
+        filter="url(#glow)">❝</text>
+
+  <text x="95" y="72"
+        fill="white"
+        font-size="25"
+        font-family="Arial">
+    Meu objetivo é continuar evoluindo na área de tecnologia
+  </text>
+
+  <text x="95" y="104"
+        fill="white"
+        font-size="25"
+        font-family="Arial">
+    através de projetos práticos, estudos e desafios,
+  </text>
+
+  <text x="95" y="136"
+        fill="white"
+        font-size="25"
+        font-family="Arial">
+    construindo uma base sólida para atuar profissionalmente.
+  </text>
+
+  <text x="95" y="168"
+        fill="white"
+        font-size="25"
+        font-family="Arial">
+    Aprender, evoluir e contribuir com a equipe.
+  </text>
+
+  <g transform="translate(705,28)">
+    <text x="70" y="120" text-anchor="middle"
+          font-size="120"
+          filter="url(#glow)">🚀</text>
+  </g>
+
+</svg>
