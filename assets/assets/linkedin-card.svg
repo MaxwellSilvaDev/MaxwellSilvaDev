@@ -1,8 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08111F"/>
+      <stop offset="100%" stop-color="#0B2342"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
   <rect x="2" y="2" width="516" height="146" rx="20"
-        fill="#08111F"
-        stroke="#0A66C2"
+        fill="url(#bg)"
+        stroke="#2563EB"
         stroke-width="2"/>
 
   <rect x="28" y="42" width="54" height="54" rx="10" fill="#0A66C2"/>
@@ -14,7 +28,7 @@
         font-weight="bold"
         fill="white">in</text>
 
-  <text x="102" y="55"
+  <text x="102" y="56"
         font-family="Arial"
         font-size="24"
         font-weight="bold"
@@ -23,19 +37,20 @@
   <text x="102" y="82"
         font-family="Arial"
         font-size="18"
-        fill="#8AB4F8">maxwellanabil01</text>
+        fill="#A5C8FF">in/maxwellanabil01</text>
 
-  <rect x="102" y="98"
-        width="150"
+  <rect x="102" y="100"
+        width="155"
         height="30"
         rx="15"
         fill="none"
-        stroke="#0A66C2"/>
+        stroke="#2563EB"
+        stroke-width="1.8"
+        filter="url(#glow)"/>
 
-  <text x="177" y="118"
+  <text x="179" y="120"
         text-anchor="middle"
         font-family="Arial"
-        font-size="14"
-        fill="#CFE3FF">Ver perfil</text>
-
+        font-size="15"
+        fill="#D6E8FF">Ver perfil ↗</text>
 </svg>
