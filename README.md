@@ -23,7 +23,11 @@ Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto con
 
 <td width="38%" align="center">
 
-<img src="./foto-perfil.jpg" width="210px" alt="Foto de Maxwell"/>
+<img
+src="./foto-perfil.jpg"
+width="210px"
+alt="Foto de Maxwell"
+/>
 
 <br><br>
 
@@ -115,12 +119,15 @@ Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto con
 
 <table>
 <tr>
+
 <td>
 <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
 </td>
+
 <td>
-<img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
+<img src="./profile/top-langs.svg" height="170" alt="Linguagens mais usadas"/>
 </td>
+
 </tr>
 </table>
 
@@ -139,7 +146,7 @@ Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto con
 
 <td width="50%" align="center">
 
-<a href="COLE_AQUI_O_LINK_DO_ECOMMERCE">
+<a href="https://github.com/MaxwellSilvaDev/sql-ecommerce-database">
 <img src="./assets/ecommerce-card.svg" width="100%" alt="E-commerce SQL Database"/>
 </a>
 
@@ -147,7 +154,7 @@ Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto con
 
 <td width="50%" align="center">
 
-<a href="COLE_AQUI_O_LINK_DA_OFICINA">
+<a href="https://github.com/MaxwellSilvaDev/database-car-workshop">
 <img src="./assets/workshop-card.svg" width="100%" alt="Car Workshop SQL Database"/>
 </a>
 
@@ -164,7 +171,10 @@ Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto con
 
 **Construindo, aprendendo e evoluindo.**
 
-Meu objetivo é continuar desenvolvendo meus conhecimentos na área de tecnologia, transformando meus estudos em projetos práticos e evoluindo constantemente como profissional. Busco minha primeira oportunidade para colocar meus conhecimentos em prática, aprender com novos desafios e contribuir com a equipe.
+Meu objetivo é continuar desenvolvendo meus conhecimentos na área de tecnologia,
+transformando meus estudos em projetos práticos e evoluindo constantemente como
+profissional. Busco minha primeira oportunidade para colocar meus conhecimentos
+em prática, aprender com novos desafios e contribuir com a equipe.
 
 </div>
 
