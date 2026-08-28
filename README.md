@@ -74,11 +74,19 @@ alt="Foto de Maxwell"
 
 <br>
 
-<img
-src="./tecnologias.svg"
-width="720"
-alt="MySQL, PostgreSQL e Docker"
-/>
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="MySQL"/><br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/postgresql/336791" width="48" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="48" alt="Docker"/><br><sub><b>Docker</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
