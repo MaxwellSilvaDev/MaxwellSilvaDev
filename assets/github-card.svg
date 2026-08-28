@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="416" height="146" rx="22"
+        fill="url(#bg)" stroke="#6D28D9" stroke-width="2"/>
+
+  <circle cx="62" cy="75" r="28" fill="#1F2937"/>
+  <text x="62" y="86" text-anchor="middle" font-size="34">🐙</text>
+
+  <text x="110" y="56" fill="white"
+        font-size="24"
+        font-family="Arial"
+        font-weight="bold">
+    GitHub
+  </text>
+
+  <text x="110" y="82"
+        fill="#A5B4FC"
+        font-size="18"
+        font-family="Arial">
+    MaxwellSilvaDev
+  </text>
+
+  <rect x="110" y="100"
+        width="160"
+        height="28"
+        rx="14"
+        fill="none"
+        stroke="#6D28D9"/>
+
+  <text x="190" y="118"
+        text-anchor="middle"
+        fill="#C4B5FD"
+        font-size="15"
+        font-family="Arial">
+    Ver perfil ↗
+  </text>
+
+</svg>
