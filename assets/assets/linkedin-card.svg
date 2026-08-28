@@ -5,45 +5,44 @@
       <stop offset="0%" stop-color="#0A1633"/>
       <stop offset="100%" stop-color="#06101F"/>
     </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
   </defs>
 
   <rect x="2" y="2" width="416" height="146" rx="22"
         fill="url(#bg)" stroke="#0A66C2" stroke-width="2"/>
 
-  <circle cx="62" cy="75" r="28" fill="#0A66C2"/>
-  <text x="62" y="86" text-anchor="middle" font-size="28" fill="white" font-family="Arial" font-weight="bold">in</text>
-
-  <text x="110" y="56" fill="white"
-        font-size="24"
+  <!-- Ícone do LinkedIn -->
+  <rect x="34" y="47" width="56" height="56" rx="12" fill="#0A66C2"/>
+  <text x="62" y="84"
+        text-anchor="middle"
         font-family="Arial"
-        font-weight="bold">
-    LinkedIn
-  </text>
+        font-size="30"
+        font-weight="bold"
+        fill="white">in</text>
 
-  <text x="110" y="82"
+  <!-- Texto -->
+  <text x="110" y="58"
+        fill="white"
+        font-family="Arial"
+        font-size="24"
+        font-weight="bold">LinkedIn</text>
+
+  <text x="110" y="86"
         fill="#93C5FD"
-        font-size="18"
-        font-family="Arial">
-    maxwellanabil01
-  </text>
+        font-family="Arial"
+        font-size="18">maxwellanabil01</text>
 
-  <rect x="110" y="100"
+  <!-- Botão -->
+  <rect x="110" y="102"
         width="170"
         height="28"
         rx="14"
         fill="none"
         stroke="#0A66C2"/>
 
-  <text x="195" y="118"
+  <text x="195" y="120"
         text-anchor="middle"
         fill="#BFDBFE"
-        font-size="15"
-        font-family="Arial">
-    Ver perfil ↗
-  </text>
+        font-family="Arial"
+        font-size="15">Ver perfil ↗</text>
 
 </svg>
