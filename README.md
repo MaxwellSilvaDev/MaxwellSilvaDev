@@ -94,6 +94,8 @@ alt="Foto de Maxwell"
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
@@ -115,6 +117,25 @@ com a equipe.
 </p>
 
 </div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>GitHub Stats</h2>
+
+<br>
+
+<img
+src="./profile/stats.svg"
+alt="GitHub Stats"
+/>
+
+</div>
+
+<br>
 
 ---
 
@@ -138,16 +159,12 @@ com a equipe.
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-
----
 
 <p>
 <b>Construindo, aprendendo e evoluindo.</b>
 </p>
 
 </div>
-
-
