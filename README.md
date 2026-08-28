@@ -15,7 +15,7 @@
 <td width="35%" align="center">
 
 <img
-src="./assets/foto-perfil.jpg"
+src="./foto-perfil.jpg"
 width="190px"
 alt="Foto de Maxwell"
 />
