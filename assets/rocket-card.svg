@@ -1,61 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
 
-  <defs>
-    <linearGradient id="bg" x1="0%" x2="100%">
-      <stop offset="0%" stop-color="#0A1633"/>
-      <stop offset="100%" stop-color="#06101F"/>
-    </linearGradient>
+  <rect x="3" y="3" width="1194" height="214" rx="28"
+        fill="#04122A"
+        stroke="#0A66FF"
+        stroke-width="3"/>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+  <text x="45" y="72"
+        font-size="42"
+        fill="#A855F7"
+        font-family="Arial">❝</text>
 
-  <rect x="2" y="2" width="896" height="216" rx="24"
-        fill="url(#bg)" stroke="#2563EB" stroke-width="3"/>
-
-  <text x="40" y="78"
-        fill="#8B5CF6"
-        font-size="70"
-        font-family="Georgia"
-        filter="url(#glow)">❝</text>
-
-  <text x="95" y="72"
+  <text x="85" y="90"
+        font-size="24"
+        font-weight="bold"
         fill="white"
-        font-size="25"
         font-family="Arial">
-    Meu objetivo é continuar evoluindo na área de tecnologia
+Meu objetivo é continuar evoluindo na área de tecnologia
   </text>
 
-  <text x="95" y="104"
+  <text x="85" y="126"
+        font-size="22"
         fill="white"
-        font-size="25"
         font-family="Arial">
-    através de projetos práticos, estudos e desafios,
+através de projetos práticos, estudos e desafios.
   </text>
 
-  <text x="95" y="136"
+  <text x="85" y="162"
+        font-size="22"
         fill="white"
-        font-size="25"
         font-family="Arial">
-    construindo uma base sólida para atuar profissionalmente.
+Aprender, evoluir e contribuir com a equipe.
   </text>
 
-  <text x="95" y="168"
-        fill="white"
-        font-size="25"
-        font-family="Arial">
-    Aprender, evoluir e contribuir com a equipe.
-  </text>
-
-  <g transform="translate(705,28)">
-    <text x="70" y="120" text-anchor="middle"
-          font-size="120"
-          filter="url(#glow)">🚀</text>
-  </g>
+  <text x="1030" y="132"
+        text-anchor="middle"
+        font-size="86"
+        font-family="Arial">🚀</text>
 
 </svg>
