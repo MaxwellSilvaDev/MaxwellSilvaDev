@@ -5,7 +5,7 @@
 
 <td width="62%" valign="middle">
 
-### 👋 Olá, eu sou
+###  Olá, eu sou
 
 # MAXWELL
 
@@ -19,7 +19,7 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <td width="38%" align="center">
 
-<img src="./assets/profile-frame.svg" width="230px" alt="Foto de Maxwell"/>
+<img src="./foto-perfil.jpg" width="210px" alt="Foto de Maxwell"/>
 
 <br><br>
 
@@ -179,7 +179,7 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 <td width="50%" align="center">
 
 <a href="https://github.com/MaxwellSilvaDev">
-<img src="./assets/github-card.svg" width="100%" alt="GitHub"/>
+  <img src="./assets/github-card.svg" width="100%" alt="GitHub"/>
 </a>
 
 </td>
@@ -187,7 +187,7 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 <td width="50%" align="center">
 
 <a href="https://www.linkedin.com/in/maxwellanabil01/">
-<img src="./assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
+  <img src="./assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
 </a>
 
 </td>
@@ -199,6 +199,6 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <div align="center">
 
-**Construindo, aprendendo e evoluindo.**
+** Construindo, aprendendo e evoluindo.**
 
 </div>
