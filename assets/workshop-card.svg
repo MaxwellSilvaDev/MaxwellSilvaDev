@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="430" viewBox="0 0 560 430">
+  <rect x="2" y="2" width="556" height="426" rx="22" fill="#050B18" stroke="#EA580C" stroke-width="3"/>
+
+  <rect x="28" y="30" width="72" height="72" rx="18" fill="#2A1808"/>
+
+  <text x="64" y="76" text-anchor="middle" font-size="36">🔧</text>
+
+  <text x="120" y="58" fill="#FB923C" font-size="28" font-family="Arial" font-weight="bold">
+    Car Workshop
+  </text>
+
+  <text x="120" y="92" fill="#FB923C" font-size="28" font-family="Arial" font-weight="bold">
+    SQL Database
+  </text>
+
+  <rect x="430" y="24" width="90" height="34" rx="16" fill="#111827" stroke="#4B5563"/>
+  <text x="475" y="46" fill="white" text-anchor="middle" font-size="16">Public</text>
+
+  <text x="28" y="138" fill="white" font-size="19" font-family="Arial">
+    Projeto de modelagem e implementação
+  </text>
+
+  <text x="28" y="166" fill="white" font-size="19" font-family="Arial">
+    de banco de dados para uma oficina
+  </text>
+
+  <text x="28" y="194" fill="white" font-size="19" font-family="Arial">
+    mecânica.
+  </text>
+
+  <text x="28" y="240" fill="white" font-size="20" font-family="Arial" font-weight="bold">
+    Principais conceitos
+  </text>
+
+  <text x="36" y="278" fill="#FB923C" font-size="20">✓</text>
+  <text x="64" y="278" fill="white" font-size="18">Clientes e veículos</text>
+
+  <text x="36" y="308" fill="#FB923C" font-size="20">✓</text>
+  <text x="64" y="308" fill="white" font-size="18">Ordens de serviço</text>
+
+  <text x="36" y="338" fill="#FB923C" font-size="20">✓</text>
+  <text x="64" y="338" fill="white" font-size="18">Relacionamentos</text>
+
+  <text x="36" y="368" fill="#FB923C" font-size="20">✓</text>
+  <text x="64" y="368" fill="white" font-size="18">Consultas SQL</text>
+
+  <rect x="30" y="388" width="500" height="28" rx="12" fill="none" stroke="#EA580C"/>
+
+  <text x="280" y="407" text-anchor="middle" fill="#FB923C" font-size="17">
+    Ver repositório ↗
+  </text>
+</svg>
