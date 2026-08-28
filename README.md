@@ -74,9 +74,11 @@ alt="Foto de Maxwell"
 
 <br>
 
-<img src="https://img.shields.io/badge/SQL-9B5DE5?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img
+src="./tecnologias.svg"
+width="720"
+alt="MySQL, PostgreSQL e Docker"
+/>
 
 </div>
 
@@ -90,7 +92,11 @@ alt="Foto de Maxwell"
 
 <br>
 
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="./ferramentas.svg"
+width="520"
+alt="GitHub e VS Code"
+/>
 
 </div>
 
@@ -100,7 +106,7 @@ alt="Foto de Maxwell"
 
 <div align="center">
 
-<h2>Objetivo</h2>
+<h2>🚀 Objetivo</h2>
 
 <br>
 
