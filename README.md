@@ -128,10 +128,25 @@ com a equipe.
 
 <br>
 
+<table>
+<tr>
+
+<td>
 <img
 src="./profile/stats.svg"
 alt="GitHub Stats"
 />
+</td>
+
+<td>
+<img
+src="./profile/top-langs.svg"
+alt="Most Used Languages"
+/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
