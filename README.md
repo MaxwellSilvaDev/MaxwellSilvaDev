@@ -5,29 +5,21 @@
 
 <td width="62%" valign="middle">
 
-<h3>👋 Olá, eu sou</h3>
+### 👋 Olá, eu sou
 
-<h1>MAXWELL</h1>
+# MAXWELL
 
-<h3>💻 Estudante de Engenharia de Software</h3>
+### 💻 Estudante de Engenharia de Software
 
-<p>
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend e banco de dados. Venho desenvolvendo meus conhecimentos por meio dos estudos e da prática, transformando aprendizado em projetos e experiências reais.
-</p>
 
-<p>
-Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto continuo evoluindo no desenvolvimento backend. Busco minha primeira oportunidade na área de tecnologia para aprender, crescer e contribuir com a equipe.
-</p>
+Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto continuo evoluindo no desenvolvimento backend. Busco minha primeira oportunidade na área de tecnologia para aprender, crescer e contribuir com a equipe.
 
 </td>
 
 <td width="38%" align="center">
 
-<img
-src="./foto-perfil.jpg"
-width="210px"
-alt="Foto de Maxwell"
-/>
+<img src="./assets/profile-frame.svg" width="230px" alt="Foto de Maxwell"/>
 
 <br><br>
 
@@ -125,7 +117,7 @@ alt="Foto de Maxwell"
 </td>
 
 <td>
-<img src="./profile/top-langs.svg" height="170" alt="Linguagens mais usadas"/>
+<img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
 </td>
 
 </tr>
@@ -169,12 +161,7 @@ alt="Foto de Maxwell"
 
 ## 🚀 Objetivo
 
-**Construindo, aprendendo e evoluindo.**
-
-Meu objetivo é continuar desenvolvendo meus conhecimentos na área de tecnologia,
-transformando meus estudos em projetos práticos e evoluindo constantemente como
-profissional. Busco minha primeira oportunidade para colocar meus conhecimentos
-em prática, aprender com novos desafios e contribuir com a equipe.
+<img src="./assets/rocket-card.svg" width="100%" alt="Objetivo"/>
 
 </div>
 
@@ -184,21 +171,29 @@ em prática, aprender com novos desafios e contribuir com a equipe.
 
 ## Onde me encontrar
 
-<br>
+</div>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 <a href="https://github.com/MaxwellSilvaDev">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="./assets/github-card.svg" width="100%" alt="GitHub"/>
 </a>
+
+</td>
+
+<td width="50%" align="center">
 
 <a href="https://www.linkedin.com/in/maxwellanabil01/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="./assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/maxwell.x_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</td>
 
-</div>
+</tr>
+</table>
 
 <br>
 
