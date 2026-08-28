@@ -5,15 +5,19 @@
 
 <td width="62%" valign="middle">
 
-### 👋 Olá, eu sou
+<h3>👋 Olá, eu sou</h3>
 
-# MAXWELL
+<h1>MAXWELL</h1>
 
-### 💻 Estudante de Engenharia de Software
+<h3>💻 Estudante de Engenharia de Software</h3>
 
+<p>
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend e banco de dados. Venho desenvolvendo meus conhecimentos por meio dos estudos e da prática, transformando aprendizado em projetos e experiências reais.
+</p>
 
+<p>
 Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto continuo evoluindo no desenvolvimento backend. Busco minha primeira oportunidade na área de tecnologia para aprender, crescer e contribuir com a equipe.
+</p>
 
 </td>
 
@@ -133,39 +137,19 @@ Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto con
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🛒 E-commerce SQL Database
-
-Projeto de modelagem e implementação de banco de dados para um sistema de e-commerce.
-
-**Principais conceitos**
-
-- Entidades e relacionamentos
-- Chaves primárias e estrangeiras
-- Consultas SQL
-- Modelagem relacional
-
-**➡️ Repositório:**  
-`cole o link aqui`
+<a href="COLE_AQUI_O_LINK_DO_ECOMMERCE">
+<img src="./assets/ecommerce-card.svg" width="100%" alt="E-commerce SQL Database"/>
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🔧 Car Workshop SQL Database
-
-Projeto de modelagem e implementação de banco de dados para uma oficina mecânica.
-
-**Principais conceitos**
-
-- Clientes, veículos e ordens de serviço
-- Relacionamentos
-- Consultas SQL
-- Estrutura relacional
-
-**➡️ Repositório:**  
-`cole o link aqui`
+<a href="COLE_AQUI_O_LINK_DA_OFICINA">
+<img src="./assets/workshop-card.svg" width="100%" alt="Car Workshop SQL Database"/>
+</a>
 
 </td>
 
