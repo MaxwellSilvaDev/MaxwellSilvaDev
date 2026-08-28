@@ -1,49 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150">
 
-  <defs>
-    <linearGradient id="bg" x1="0%" x2="100%">
-      <stop offset="0%" stop-color="#0B1220"/>
-      <stop offset="100%" stop-color="#111827"/>
-    </linearGradient>
+  <rect x="2" y="2" width="516" height="146" rx="20"
+        fill="#08111F"
+        stroke="#7C3AED"
+        stroke-width="2"/>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
-  </defs>
+  <circle cx="55" cy="75" r="28" fill="#FFFFFF"/>
 
-  <rect x="2" y="2" width="416" height="146" rx="22"
-        fill="url(#bg)" stroke="#6D28D9" stroke-width="2"/>
+  <path d="M55 48
+           C40 48 30 60 30 75
+           C30 87 38 97 49 100
+           L49 90
+           C43 92 41 87 41 87
+           C39 83 36 82 36 82
+           C40 82 42 85 42 85
+           C46 91 52 89 55 88
+           C55 85 56 83 58 82
+           C46 81 37 76 37 63
+           C37 59 39 56 42 53
+           C41 51 41 47 42 44
+           C42 44 46 45 55 51
+           C64 45 68 44 68 44
+           C69 47 69 51 68 53
+           C71 56 73 59 73 63
+           C73 76 64 81 52 82
+           C54 84 55 87 55 91
+           L55 100
+           C72 95 80 85 80 75
+           C80 60 70 48 55 48Z"
+        fill="#08111F"/>
 
-  <circle cx="62" cy="75" r="28" fill="#1F2937"/>
-  <text x="62" y="86" text-anchor="middle" font-size="34">🐙</text>
-
-  <text x="110" y="56" fill="white"
-        font-size="24"
+  <text x="98" y="58"
         font-family="Arial"
-        font-weight="bold">
-    GitHub
-  </text>
+        font-size="24"
+        font-weight="bold"
+        fill="white">GitHub</text>
 
-  <text x="110" y="82"
-        fill="#A5B4FC"
+  <text x="98" y="84"
+        font-family="Arial"
         font-size="18"
-        font-family="Arial">
-    MaxwellSilvaDev
-  </text>
+        fill="#C4B5FD">MaxwellSilvaDev</text>
 
-  <rect x="110" y="100"
-        width="160"
-        height="28"
-        rx="14"
+  <rect x="98" y="100"
+        width="150"
+        height="30"
+        rx="15"
         fill="none"
-        stroke="#6D28D9"/>
+        stroke="#7C3AED"/>
 
-  <text x="190" y="118"
+  <text x="173" y="119"
         text-anchor="middle"
-        fill="#C4B5FD"
-        font-size="15"
-        font-family="Arial">
-    Ver perfil ↗
-  </text>
+        font-family="Arial"
+        font-size="14"
+        fill="#DDD6FE">Ver perfil</text>
 
 </svg>
