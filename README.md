@@ -5,59 +5,49 @@
 
 <td width="62%" valign="middle">
 
-<h3>Olá, eu sou</h3>
+### 👋 Olá, eu sou
 
-<h1>MAXWELL</h1>
+# MAXWELL
 
-<h3>Estudante de Engenharia de Software</h3>
+### 💻 Estudante de Engenharia de Software
 
-<p>
-Sou estudante de Engenharia de Software, com interesse em desenvolvimento backend e banco de dados. Venho construindo meus conhecimentos através dos estudos e da prática, buscando transformar o aprendizado em projetos e experiências práticas.
-</p>
+Sou estudante de Engenharia de Software com foco em desenvolvimento backend e banco de dados. Venho desenvolvendo meus conhecimentos por meio dos estudos e da prática, transformando aprendizado em projetos e experiências reais.
 
-<p>
-Atualmente, estou aprimorando meus conhecimentos em SQL, MySQL e Docker, enquanto continuo evoluindo na área de desenvolvimento. Busco minha primeira oportunidade na área de tecnologia, onde possa colocar meus conhecimentos em prática, aprender com novos desafios e contribuir com a equipe.
-</p>
+Atualmente, estou aprofundando meus estudos em SQL, MySQL e Docker, enquanto continuo evoluindo no desenvolvimento backend. Busco minha primeira oportunidade na área de tecnologia para aprender, crescer e contribuir com a equipe.
 
 </td>
 
 <td width="38%" align="center">
 
-<img
-src="./foto-perfil.jpg"
-width="210px"
-alt="Foto de Maxwell"
-/>
+<img src="./foto-perfil.jpg" width="210px" alt="Foto de Maxwell"/>
 
 <br><br>
 
-<p>
-<b>📍 Anápolis - GO</b>
-</p>
+**📍 Anápolis - GO**
 
-<p>
+<br>
+
 <a href="mailto:maxwellanabil78@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-9B5DE5?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
-<p>
+<br>
+
 <a href="https://www.linkedin.com/in/maxwellanabil01/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-</p>
 
-<p>
+<br>
+
 <a href="https://github.com/MaxwellSilvaDev">
 <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
 </a>
-</p>
 
-<p>
+<br>
+
 <a href="https://www.instagram.com/maxwell.x_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
-</p>
 
 </td>
 
@@ -90,8 +80,6 @@ alt="Foto de Maxwell"
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
@@ -102,7 +90,7 @@ alt="Foto de Maxwell"
 
 <p>
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="56" alt="GitHub"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="56" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="56" alt="VS Code"/>
 </p>
 
 <p>
@@ -113,7 +101,76 @@ alt="Foto de Maxwell"
 
 </div>
 
+---
+
+<div align="center">
+
+## 📊 Status
+
 <br>
+
+<table>
+<tr>
+<td>
+<img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📁 Projetos em Destaque
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛒 E-commerce SQL Database
+
+Projeto de modelagem e implementação de banco de dados para um sistema de e-commerce.
+
+**Principais conceitos**
+
+- Entidades e relacionamentos
+- Chaves primárias e estrangeiras
+- Consultas SQL
+- Modelagem relacional
+
+**➡️ Repositório:**  
+`cole o link aqui`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Car Workshop SQL Database
+
+Projeto de modelagem e implementação de banco de dados para uma oficina mecânica.
+
+**Principais conceitos**
+
+- Clientes, veículos e ordens de serviço
+- Relacionamentos
+- Consultas SQL
+- Estrutura relacional
+
+**➡️ Repositório:**  
+`cole o link aqui`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -121,55 +178,11 @@ alt="Foto de Maxwell"
 
 ## 🚀 Objetivo
 
-<br>
+**Construindo, aprendendo e evoluindo.**
 
-<p>
-<b>Construindo, aprendendo e evoluindo.</b>
-</p>
-
-<p>
-Meu objetivo é continuar desenvolvendo meus conhecimentos na área de tecnologia,
-transformando meus estudos em projetos práticos e evoluindo constantemente como
-profissional. Busco minha primeira oportunidade na área de tecnologia, onde possa
-colocar meus conhecimentos em prática, aprender com novos desafios e contribuir
-com a equipe.
-</p>
+Meu objetivo é continuar desenvolvendo meus conhecimentos na área de tecnologia, transformando meus estudos em projetos práticos e evoluindo constantemente como profissional. Busco minha primeira oportunidade para colocar meus conhecimentos em prática, aprender com novos desafios e contribuir com a equipe.
 
 </div>
-
-<br>
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<br>
-
-<table>
-<tr>
-
-<td>
-<img
-src="./profile/stats.svg"
-alt="GitHub Stats"
-/>
-</td>
-
-<td>
-<img
-src="./profile/top-langs.svg"
-alt="Most Used Languages"
-/>
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
 
 ---
 
@@ -193,12 +206,10 @@ alt="Most Used Languages"
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<p>
-<b>Construindo, aprendendo e evoluindo.</b>
-</p>
+**Construindo, aprendendo e evoluindo.**
 
 </div>
