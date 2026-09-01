@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Maxwell;Software+Engineering;Backend+Developer;SQL+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG"/>
@@ -186,7 +185,7 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <td width="50%" align="center">
   <a href="https://www.linkedin.com/in/maxwellanabil01/">
-    <img src="./assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
+    <img src="./assets/assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
   </a>
 </td>
 
@@ -199,4 +198,4 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 **Construindo, aprendendo e evoluindo.**
 
-</div>
+</div> 
