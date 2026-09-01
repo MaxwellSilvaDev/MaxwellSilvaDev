@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Maxwell;Software+Engineering;Backend+Developer;SQL+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Maxwell;Software+Engineering;Backend+Developer;SQL+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG"/>
 
 </div>
 
@@ -36,25 +37,25 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 <br>
 
 <a href="mailto:maxwellanabil78@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-9B5DE5?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/E--mail-9B5DE5?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <br>
 
 <a href="https://www.linkedin.com/in/maxwellanabil01/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <br>
 
 <a href="https://github.com/MaxwellSilvaDev">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <br>
 
 <a href="https://www.instagram.com/maxwell.x_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 </td>
@@ -119,15 +120,12 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 
 <table>
 <tr>
-
 <td>
-<img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
 </td>
-
 <td>
-<img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
 </td>
-
 </tr>
 </table>
 
@@ -145,19 +143,15 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 <tr>
 
 <td width="50%" align="center">
-
-<a href="https://github.com/MaxwellSilvaDev/sql-ecommerce-database">
-<img src="./assets/ecommerce-card.svg" width="100%" alt="E-commerce SQL Database"/>
-</a>
-
+  <a href="https://github.com/MaxwellSilvaDev/sql-ecommerce-database">
+    <img src="./assets/ecommerce-card.svg" width="100%" alt="E-commerce SQL Database"/>
+  </a>
 </td>
 
 <td width="50%" align="center">
-
-<a href="https://github.com/MaxwellSilvaDev/database-car-workshop">
-<img src="./assets/workshop-card.svg" width="100%" alt="Car Workshop SQL Database"/>
-</a>
-
+  <a href="https://github.com/MaxwellSilvaDev/database-car-workshop">
+    <img src="./assets/workshop-card.svg" width="100%" alt="Car Workshop SQL Database"/>
+  </a>
 </td>
 
 </tr>
@@ -185,19 +179,15 @@ Atualmente, estou aprofundando meus estudos em **SQL, MySQL e Docker**, enquanto
 <tr>
 
 <td width="50%" align="center">
-
-<a href="https://github.com/MaxwellSilvaDev">
-<img src="./assets/github-card.svg" width="100%" alt="GitHub"/>
-</a>
-
+  <a href="https://github.com/MaxwellSilvaDev">
+    <img src="./assets/github-card.svg" width="100%" alt="GitHub"/>
+  </a>
 </td>
 
 <td width="50%" align="center">
-
-<a href="https://www.linkedin.com/in/maxwellanabil01/">
-<img src="./assets/assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/maxwellanabil01/">
+    <img src="./assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
+  </a>
 </td>
 
 </tr>
