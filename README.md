@@ -68,7 +68,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 
 <div align="center">
 
-## Stack Principal
+## Tecnologias e Ferramentas
 
 <br>
 
