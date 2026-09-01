@@ -102,13 +102,11 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 
 <br>
 
-<p>
-  Node.js &nbsp; • &nbsp;
-  APIs REST &nbsp; • &nbsp;
-  Docker &nbsp; • &nbsp;
-  PostgreSQL &nbsp; • &nbsp;
-  Git e GitHub
-</p>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub"/>
 
 </div>
 
@@ -116,7 +114,49 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 
 <div align="center">
 
-## Status
+## Projetos em Destaque
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+  <a href="https://github.com/MaxwellSilvaDev/sql-ecommerce-database">
+    <img src="./assets/ecommerce-card.svg" width="100%" alt="E-commerce SQL Database"/>
+  </a>
+
+  <br>
+
+  <sub>
+    Banco de dados voltado para estrutura de e-commerce, com foco em modelagem e consultas SQL.
+  </sub>
+
+</td>
+
+<td width="50%" align="center">
+
+  <a href="https://github.com/MaxwellSilvaDev/database-car-workshop">
+    <img src="./assets/workshop-card.svg" width="100%" alt="Car Workshop SQL Database"/>
+  </a>
+
+  <br>
+
+  <sub>
+    Projeto de banco de dados para gerenciamento de oficina automotiva.
+  </sub>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## GitHub Stats
 
 <br>
 
@@ -158,46 +198,6 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
     src="https://raw.githubusercontent.com/MaxwellSilvaDev/MaxwellSilvaDev/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-## Projetos em Destaque
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-  <a href="https://github.com/MaxwellSilvaDev/sql-ecommerce-database">
-    <img src="./assets/ecommerce-card.svg" width="100%" alt="E-commerce SQL Database"/>
-  </a>
-
-</td>
-
-<td width="50%" align="center">
-
-  <a href="https://github.com/MaxwellSilvaDev/database-car-workshop">
-    <img src="./assets/workshop-card.svg" width="100%" alt="Car Workshop SQL Database"/>
-  </a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## Objetivo
-
-<img src="./assets/rocket-card.svg" width="100%" alt="Objetivo"/>
 
 </div>
 
