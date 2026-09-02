@@ -1,0 +1,80 @@
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="1" y="1" width="758" height="218" rx="16"
+        fill="#161B22"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <circle cx="66" cy="66" r="36"
+          fill="#21262D"
+          stroke="#30363D"
+          stroke-width="2"/>
+
+  <path d="M48 53 H79 L75 72 H53 Z"
+        stroke="#C9D1D9"
+        stroke-width="3"
+        fill="none"/>
+
+  <circle cx="58" cy="81" r="4" fill="#C9D1D9"/>
+  <circle cx="71" cy="81" r="4" fill="#C9D1D9"/>
+
+  <text x="120" y="60"
+        fill="#F0F6FC"
+        font-size="32"
+        font-weight="700"
+        font-family="Segoe UI, Arial, sans-serif">
+    E-commerce SQL Database
+  </text>
+
+  <text x="120" y="92"
+        fill="#8B949E"
+        font-size="21"
+        font-family="Segoe UI, Arial, sans-serif">
+    Banco de dados para e-commerce
+  </text>
+
+  <line x1="38" y1="120" x2="722" y2="120"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <rect x="40" y="148" width="140" height="42" rx="8"
+        fill="#21262D"
+        stroke="#30363D"/>
+
+  <text x="110" y="175"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-size="18"
+        font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif">
+    SQL
+  </text>
+
+  <rect x="195" y="148" width="140" height="42" rx="8"
+        fill="#21262D"
+        stroke="#30363D"/>
+
+  <text x="265" y="175"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-size="18"
+        font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif">
+    MySQL
+  </text>
+
+  <rect x="350" y="148" width="170" height="42" rx="8"
+        fill="#21262D"
+        stroke="#30363D"/>
+
+  <text x="435" y="175"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-size="18"
+        font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif">
+    Database
+  </text>
+
+</svg>

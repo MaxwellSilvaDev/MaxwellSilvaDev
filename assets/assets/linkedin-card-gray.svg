@@ -1,0 +1,63 @@
+<svg width="760" height="180" viewBox="0 0 760 180" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="1" y="1" width="758" height="178" rx="16"
+        fill="#161B22"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <circle cx="78" cy="90" r="42"
+          fill="#21262D"
+          stroke="#30363D"
+          stroke-width="2"/>
+
+  <rect x="53" y="65" width="50" height="50" rx="8"
+        fill="none"
+        stroke="#C9D1D9"
+        stroke-width="3"/>
+
+  <circle cx="65" cy="78" r="4"
+          fill="#C9D1D9"/>
+
+  <rect x="61" y="88" width="8" height="18"
+        rx="2"
+        fill="#C9D1D9"/>
+
+  <path d="M78 106 V88 H86 V91
+           C88 88 91 87 95 87
+           C102 87 106 92 106 101
+           V106 H98 V101
+           C98 96 96 94 92 94
+           C88 94 86 97 86 101
+           V106 Z"
+        fill="#C9D1D9"/>
+
+  <text x="145" y="78"
+        fill="#F0F6FC"
+        font-size="30"
+        font-weight="700"
+        font-family="Segoe UI, Arial, sans-serif">
+    LinkedIn
+  </text>
+
+  <text x="145" y="108"
+        fill="#C9D1D9"
+        font-size="20"
+        font-family="Segoe UI, Arial, sans-serif">
+    Maxwell Anabil
+  </text>
+
+  <text x="145" y="137"
+        fill="#8B949E"
+        font-size="16"
+        font-family="Segoe UI, Arial, sans-serif">
+    Conexões, carreira e experiências
+  </text>
+
+  <path d="M680 78 L696 90 L680 102"
+        stroke="#8B949E"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Maxwell;Software+Engineering;Backend+Developer" alt="Typing SVG"/>
+  <img src="./assets/header-card.svg" width="100%" alt="Backend Developer"/>
 
 </div>
 
@@ -13,49 +13,49 @@
 
 <td width="62%" valign="middle">
 
-### Olá, eu sou
+### 👨‍💻 Sobre mim
 
-# Maxwell
+## Olá, eu sou Maxwell
 
-### Estudante de Engenharia de Software
+**Estudante de Engenharia de Software**
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend. Busco transformar aprendizado em projetos práticos, evoluindo constantemente por meio dos estudos e da experiência adquirida em cada projeto.
+Sou estudante de Engenharia de Software com foco em desenvolvimento backend.
 
-Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, continuar aprendendo e contribuir com soluções de qualidade.
+Busco transformar aprendizado em projetos práticos, evoluindo constantemente por meio dos estudos e das experiências adquiridas em cada projeto.
+
+> **Construindo, aprendendo e evoluindo.**
 
 </td>
 
 <td width="38%" align="center">
 
-<img src="./foto-perfil.jpg" width="210px" alt="Foto de Maxwell"/>
+<img src="./foto-perfil.jpg" width="195px" alt="Foto de Maxwell"/>
 
 <br><br>
 
 **📍 Anápolis - GO**
 
-<br>
+<br><br>
 
-<a href="mailto:maxwellanabil78@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-9B5DE5?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<p>
 
-<br>
+  <a href="mailto:maxwellanabil78@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-30363D?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/maxwellanabil01/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+  &nbsp;
 
-<br>
+  <a href="https://www.linkedin.com/in/maxwellanabil01/">
+    <img src="https://img.shields.io/badge/LinkedIn-30363D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="https://github.com/MaxwellSilvaDev">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
-</a>
+  &nbsp;
 
-<br>
+  <a href="https://github.com/MaxwellSilvaDev">
+    <img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<a href="https://www.instagram.com/maxwell.x_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
+</p>
 
 </td>
 
@@ -72,25 +72,41 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 
 <br>
 
-<p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="56" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="56" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="56" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="56" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="56" alt="VS Code"/>
-</p>
+<table>
+<tr>
 
-<p>
+<td align="center" width="20%">
+  <img src="https://cdn.simpleicons.org/nodedotjs/C9D1D9" width="48" alt="Node.js"/>
+  <br><br>
   <sub><b>Node.js</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center" width="20%">
+  <img src="https://cdn.simpleicons.org/postgresql/C9D1D9" width="48" alt="PostgreSQL"/>
+  <br><br>
   <sub><b>PostgreSQL</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center" width="20%">
+  <img src="https://cdn.simpleicons.org/docker/C9D1D9" width="48" alt="Docker"/>
+  <br><br>
   <sub><b>Docker</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center" width="20%">
+  <img src="https://cdn.simpleicons.org/git/C9D1D9" width="48" alt="Git"/>
+  <br><br>
   <sub><b>Git</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center" width="20%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
+  <br><br>
   <sub><b>VS Code</b></sub>
-</p>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -102,11 +118,17 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 
 <br>
 
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub"/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST_API-30363D?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-30363D?style=flat-square&logo=git&logoColor=white" alt="Git e GitHub"/>
+</p>
 
 </div>
 
@@ -118,34 +140,24 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 
 </div>
 
+<br>
+
 <table>
 <tr>
 
 <td width="50%" align="center">
 
   <a href="https://github.com/MaxwellSilvaDev/sql-ecommerce-database">
-    <img src="./assets/ecommerce-card.svg" width="100%" alt="E-commerce SQL Database"/>
+    <img src="./assets/ecommerce-card-gray.svg" width="100%" alt="E-commerce SQL Database"/>
   </a>
-
-  <br>
-
-  <sub>
-    Banco de dados voltado para estrutura de e-commerce, com foco em modelagem e consultas SQL.
-  </sub>
 
 </td>
 
 <td width="50%" align="center">
 
   <a href="https://github.com/MaxwellSilvaDev/database-car-workshop">
-    <img src="./assets/workshop-card.svg" width="100%" alt="Car Workshop SQL Database"/>
+    <img src="./assets/workshop-card-gray.svg" width="100%" alt="Car Workshop Database"/>
   </a>
-
-  <br>
-
-  <sub>
-    Projeto de banco de dados para gerenciamento de oficina automotiva.
-  </sub>
 
 </td>
 
@@ -168,7 +180,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 </td>
 
 <td>
-  <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
+  <img src="./profile/top-langs.svg?v=2" height="170" alt="Top Languages"/>
 </td>
 
 </tr>
@@ -185,18 +197,22 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 <br>
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/MaxwellSilvaDev/MaxwellSilvaDev/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/MaxwellSilvaDev/MaxwellSilvaDev/output/github-contribution-grid-snake.svg"
   />
+
   <img
     alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/MaxwellSilvaDev/MaxwellSilvaDev/output/github-contribution-grid-snake.svg"
   />
+
 </picture>
 
 </div>
@@ -209,13 +225,15 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 
 </div>
 
+<br>
+
 <table>
 <tr>
 
 <td width="50%" align="center">
 
   <a href="https://github.com/MaxwellSilvaDev">
-    <img src="./assets/github-card.svg" width="100%" alt="GitHub"/>
+    <img src="./assets/github-card-gray.svg" width="100%" alt="GitHub"/>
   </a>
 
 </td>
@@ -223,7 +241,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, c
 <td width="50%" align="center">
 
   <a href="https://www.linkedin.com/in/maxwellanabil01/">
-    <img src="./assets/assets/linkedin-card.svg" width="100%" alt="LinkedIn"/>
+    <img src="./assets/assets/linkedin-card-gray.svg" width="100%" alt="LinkedIn"/>
   </a>
 
 </td>
