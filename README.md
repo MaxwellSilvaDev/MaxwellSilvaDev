@@ -75,31 +75,25 @@ Busco transformar aprendizado em projetos práticos, evoluindo constantemente po
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
   <img src="https://cdn.simpleicons.org/nodedotjs/C9D1D9" width="48" alt="Node.js"/>
   <br><br>
   <sub><b>Node.js</b></sub>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
   <img src="https://cdn.simpleicons.org/postgresql/C9D1D9" width="48" alt="PostgreSQL"/>
   <br><br>
   <sub><b>PostgreSQL</b></sub>
 </td>
 
-<td align="center" width="20%">
-  <img src="https://cdn.simpleicons.org/docker/C9D1D9" width="48" alt="Docker"/>
-  <br><br>
-  <sub><b>Docker</b></sub>
-</td>
-
-<td align="center" width="20%">
+<td align="center" width="25%">
   <img src="https://cdn.simpleicons.org/git/C9D1D9" width="48" alt="Git"/>
   <br><br>
   <sub><b>Git</b></sub>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
   <br><br>
   <sub><b>VS Code</b></sub>
@@ -122,8 +116,6 @@ Busco transformar aprendizado em projetos práticos, evoluindo constantemente po
   <img src="https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   &nbsp;
   <img src="https://img.shields.io/badge/REST_API-30363D?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   &nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   &nbsp;
