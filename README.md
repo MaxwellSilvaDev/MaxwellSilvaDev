@@ -17,11 +17,13 @@
 
 ## Olá, eu sou Maxwell
 
-**Estudante de Engenharia de Software**
+**Estudante de Engenharia de Software | Backend Developer**
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend.
 
-Busco transformar aprendizado em projetos práticos, evoluindo constantemente por meio dos estudos e das experiências adquiridas em cada projeto.
+Tenho desenvolvido projetos práticos envolvendo **APIs REST, Python, FastAPI, PostgreSQL, SQLAlchemy, testes automatizados e versionamento com Git/GitHub**.
+
+Busco transformar o que aprendo em soluções reais, evoluindo constantemente por meio dos estudos e da construção de projetos.
 
 > **Construindo, aprendendo e evoluindo.**
 
@@ -68,35 +70,47 @@ Busco transformar aprendizado em projetos práticos, evoluindo constantemente po
 
 <div align="center">
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <br>
 
 <table>
 <tr>
 
-<td align="center" width="25%">
-  <img src="https://cdn.simpleicons.org/nodedotjs/C9D1D9" width="48" alt="Node.js"/>
+<td align="center" width="16%">
+  <img src="https://cdn.simpleicons.org/python/C9D1D9" width="48" alt="Python"/>
   <br><br>
-  <sub><b>Node.js</b></sub>
+  <sub><b>Python</b></sub>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="16%">
+  <img src="https://cdn.simpleicons.org/fastapi/C9D1D9" width="48" alt="FastAPI"/>
+  <br><br>
+  <sub><b>FastAPI</b></sub>
+</td>
+
+<td align="center" width="16%">
   <img src="https://cdn.simpleicons.org/postgresql/C9D1D9" width="48" alt="PostgreSQL"/>
   <br><br>
   <sub><b>PostgreSQL</b></sub>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="16%">
+  <img src="https://cdn.simpleicons.org/sqlalchemy/C9D1D9" width="48" alt="SQLAlchemy"/>
+  <br><br>
+  <sub><b>SQLAlchemy</b></sub>
+</td>
+
+<td align="center" width="16%">
   <img src="https://cdn.simpleicons.org/git/C9D1D9" width="48" alt="Git"/>
   <br><br>
   <sub><b>Git</b></sub>
 </td>
 
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
+<td align="center" width="16%">
+  <img src="https://cdn.simpleicons.org/github/C9D1D9" width="48" alt="GitHub"/>
   <br><br>
-  <sub><b>VS Code</b></sub>
+  <sub><b>GitHub</b></sub>
 </td>
 
 </tr>
@@ -108,18 +122,15 @@ Busco transformar aprendizado em projetos práticos, evoluindo constantemente po
 
 <div align="center">
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-30363D?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-30363D?style=flat-square&logo=git&logoColor=white" alt="Git e GitHub"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> &nbsp;
+  <img src="https://img.shields.io/badge/Arquitetura_de_APIs-30363D?style=flat-square&logo=fastapi&logoColor=white" alt="Arquitetura de APIs"/> &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> &nbsp;
+  <img src="https://img.shields.io/badge/Cloud_e_Deploy-30363D?style=flat-square&logo=render&logoColor=white" alt="Cloud e Deploy"/>
 </p>
 
 </div>
@@ -128,9 +139,51 @@ Busco transformar aprendizado em projetos práticos, evoluindo constantemente po
 
 <div align="center">
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 </div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 📦 Estoque Multiloja API
+
+API REST para gerenciamento de estoque de múltiplas lojas, com controle de produtos, unidades, movimentações de entrada e saída e saldo individual por loja.
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white" alt="Python"/> &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-30363D?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> &nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-30363D?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/> &nbsp;
+  <img src="https://img.shields.io/badge/Pytest-30363D?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
+</p>
+
+<br>
+
+**16 testes automatizados • CI/CD • Deploy público • Demo somente leitura**
+
+<br><br>
+
+<p align="center">
+  <a href="https://github.com/MaxwellSilvaDev/estoque-multiloja-api"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/></a>
+  &nbsp;
+  <a href="https://estoque-multiloja-api.onrender.com"><img src="https://img.shields.io/badge/API_Online-30363D?style=for-the-badge&logo=render&logoColor=white" alt="API Online"/></a>
+  &nbsp;
+  <a href="https://estoque-multiloja-api.onrender.com/docs"><img src="https://img.shields.io/badge/Swagger-30363D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/></a>
+</p>
+
+<br>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -160,7 +213,7 @@ Busco transformar aprendizado em projetos práticos, evoluindo constantemente po
 
 <div align="center">
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <br>
 
@@ -184,7 +237,7 @@ Busco transformar aprendizado em projetos práticos, evoluindo constantemente po
 
 <div align="center">
 
-## Contribuições
+## 🐍 Contribuições
 
 <br>
 
@@ -213,7 +266,7 @@ Busco transformar aprendizado em projetos práticos, evoluindo constantemente po
 
 <div align="center">
 
-## Onde me encontrar
+## 🌐 Onde me encontrar
 
 </div>
 
