@@ -145,45 +145,23 @@ Busco transformar o que aprendo em soluções reais, evoluindo constantemente po
 
 <br>
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center">
+  <a href="https://github.com/MaxwellSilvaDev/estoque-multiloja-api">
+    <img src="./assets/estoque-card-gray.svg" width="100%" alt="Estoque Multiloja API"/>
+  </a>
 
-### 📦 Estoque Multiloja API
+  <br><br>
 
-API REST para gerenciamento de estoque de múltiplas lojas, com controle de produtos, unidades, movimentações de entrada e saída e saldo individual por loja.
+  <p align="center">
+    <a href="https://github.com/MaxwellSilvaDev/estoque-multiloja-api"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/></a>
+    &nbsp;
+    <a href="https://estoque-multiloja-api.onrender.com"><img src="https://img.shields.io/badge/API_Online-30363D?style=for-the-badge&logo=render&logoColor=white" alt="API Online"/></a>
+    &nbsp;
+    <a href="https://estoque-multiloja-api.onrender.com/docs"><img src="https://img.shields.io/badge/Swagger-30363D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/></a>
+  </p>
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white" alt="Python"/> &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-30363D?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> &nbsp;
-  <img src="https://img.shields.io/badge/SQLAlchemy-30363D?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/> &nbsp;
-  <img src="https://img.shields.io/badge/Pytest-30363D?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
-</p>
-
-<br>
-
-**16 testes automatizados • CI/CD • Deploy público • Demo somente leitura**
-
-<br><br>
-
-<p align="center">
-  <a href="https://github.com/MaxwellSilvaDev/estoque-multiloja-api"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/></a>
-  &nbsp;
-  <a href="https://estoque-multiloja-api.onrender.com"><img src="https://img.shields.io/badge/API_Online-30363D?style=for-the-badge&logo=render&logoColor=white" alt="API Online"/></a>
-  &nbsp;
-  <a href="https://estoque-multiloja-api.onrender.com/docs"><img src="https://img.shields.io/badge/Swagger-30363D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/></a>
-</p>
-
-<br>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
 
