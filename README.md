@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/header-card.svg" width="100%" alt="Backend Developer"/>
+  <img src="./assets/header-card.svg" width="100%" alt="Tecnologia da Informação"/>
 
 </div>
 
@@ -17,13 +17,13 @@
 
 ## Olá, eu sou Maxwell
 
-**Estudante de Engenharia de Software | Backend Developer**
+**Estudante de Engenharia de Software | Tecnologia da Informação**
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend.
+Sou estudante de Engenharia de Software, atualmente no 5º período, e busco desenvolver minha primeira experiência profissional na área de Tecnologia da Informação.
 
-Tenho desenvolvido projetos práticos envolvendo **APIs REST, Python, FastAPI, PostgreSQL, SQLAlchemy, testes automatizados e versionamento com Git/GitHub**.
+Tenho desenvolvido projetos práticos envolvendo **Python, APIs REST, bancos de dados, SQL, FastAPI, PostgreSQL e versionamento com Git/GitHub**, além de conhecimentos acadêmicos em **Redes de Computadores**.
 
-Busco transformar o que aprendo em soluções reais, evoluindo constantemente por meio dos estudos e da construção de projetos.
+Tenho interesse em áreas como **Redes, Banco de Dados, Suporte e Infraestrutura de TI e Desenvolvimento de Software**, sempre com foco em aprendizado, resolução de problemas e evolução profissional.
 
 > **Construindo, aprendendo e evoluindo.**
 
@@ -122,15 +122,15 @@ Busco transformar o que aprendo em soluções reais, evoluindo constantemente po
 
 <div align="center">
 
-## 📚 Atualmente estudando
+## 📚 Áreas de interesse e desenvolvimento
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> &nbsp;
-  <img src="https://img.shields.io/badge/Arquitetura_de_APIs-30363D?style=flat-square&logo=fastapi&logoColor=white" alt="Arquitetura de APIs"/> &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> &nbsp;
-  <img src="https://img.shields.io/badge/Cloud_e_Deploy-30363D?style=flat-square&logo=render&logoColor=white" alt="Cloud e Deploy"/>
+  <img src="https://img.shields.io/badge/Redes_de_Computadores-30363D?style=flat-square" alt="Redes de Computadores"/> &nbsp;
+  <img src="https://img.shields.io/badge/Banco_de_Dados-30363D?style=flat-square" alt="Banco de Dados"/> &nbsp;
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white" alt="Python"/> &nbsp;
+  <img src="https://img.shields.io/badge/Engenharia_de_Software-30363D?style=flat-square" alt="Engenharia de Software"/>
 </p>
 
 </div>
@@ -276,6 +276,6 @@ Busco transformar o que aprendo em soluções reais, evoluindo constantemente po
 
 <div align="center">
 
-**Construindo hoje as habilidades para desenvolver as soluções de amanhã.**
+**Construindo hoje as habilidades para transformar conhecimento em soluções de tecnologia.**
 
 </div>
